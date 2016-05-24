@@ -10,22 +10,14 @@ Intro to Linux, Data Management, and Shell Programming: https://github.com/Resea
 ML FAQs:
 https://github.com/rasbt/python-machine-learning-book#faq
 
-Interesting web apps:
-Machine learning demos on your browser:
-http://cs.stanford.edu/people/karpathy/convnetjs/
-Image recognition demo
-http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html
-classification demo
-http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
-Learning to design a car
-http://boxcar2d.com/index.html
-Learning to walk
-http://rednuht.org/genetic_walkers/
-Simulating the world in emoji
-http://ncase.me/simulating/
-Guess your age based on picture 
-http://how-old.net/ 
- 
+-Interesting web apps: Machine learning 
+-demos on your browser: http://cs.stanford.edu/people/karpathy/convnetjs/
+-Image recognition demo: http://cs.stanford.edu/people/karpathy/convnetjs/demo/cifar10.html
+-classification demo: http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
+-Learning to design a car: http://boxcar2d.com/index.html
+-Learning to walk: http://rednuht.org/genetic_walkers/
+-Simulating the world in emoji: http://ncase.me/simulating/
+
  Video Lectures and Talks: 
 [1]  Standford U: Intro to ML (Andrew Ng) 
 https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599
@@ -53,23 +45,26 @@ Ipython Notebooks, scripts & codes:
 [10] Survival in Titanic Disaster: http://nbviewer.jupyter.org/github/agconti/kaggle-titanic/blob/master/Titanic.ipynb
 
 Blogs:
-http://www.welchlabs.com/blog# 
-http://ml.typepad.com/
-https://datablast.wordpress.com/2014/04/16/remembrances-exoplanets-and-data-mining-in-astronomy/
+-http://www.welchlabs.com/blog# 
+-http://ml.typepad.com/
+-https://datablast.wordpress.com/2014/04/16/remembrances-exoplanets-and-data-mining-in-astronomy/
 
 Useful Libraries:
-NumPy
-SciPy
-Matplotlib
-Pandas
-Statsmodels
-Scikit-learn
-Seaborn
-NetworkX
-PyMC
-NLTK
-DEAP
-Gensim 
+-NumPy
+-SciPy
+-Matplotlib
+-Pandas
+-Statsmodels
+-Scikit-learn
+-Seaborn
+-NetworkX
+-PyMC
+-MCMC
+-NLTK
+-DEAP
+-Gensim 
+-TensorFlow
+-Theano
 
 Paper
 Automatic Classification of Kepler Threshold Crossing Events
