@@ -16,7 +16,7 @@ https://github.com/rasbt/python-machine-learning-book#faq
 - classification demo: http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html
 - Learning to design a car: http://boxcar2d.com/index.html
 - Learning to walk: http://rednuht.org/genetic_walkers/
--Simulating the world in emoji: http://ncase.me/simulating/
+- Simulating the world in emoji: http://ncase.me/simulating/
 
  Video Lectures and Talks: 
 - [1]  Standford U: Intro to ML (Andrew Ng): https://www.youtube.com/playlist?list=PLA89DCFA6ADACE599,
